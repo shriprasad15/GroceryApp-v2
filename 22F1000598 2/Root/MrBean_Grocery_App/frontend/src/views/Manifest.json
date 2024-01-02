@@ -1,0 +1,13 @@
+{
+  "name": "My awesome Vue App",
+  "short_name": "My App",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/Users/shriprasad/Desktop/MAD2-PROJECT/MAD2/frontend2/src/assets/logo.png",
+      "sizes": [192, 512],
+      "type": "image/png"
+    }
+  ]
+}
